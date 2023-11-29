@@ -1,10 +1,14 @@
 {
-  "category": "Category 2",
-  "questions": [
+  "questions" : [
     {
-      "question": "2 + 2 equals?",
-      "options": ["3", "4", "5", "6"],
-      "correctAnswer": "4"
+        "question": "Compute {% verbatim %}$$\\lim_{{x \\to 2}} (x^2 + 3x - 2).$${% endverbatim %}",
+        "choices": ["5", "8", "10", "12"],
+        "correctIndex": 2
     },
-  ]
+    {
+        "question": "Compute {% verbatim %}$$\\lim_{{x \\to 0}} \\frac{{\\sin(x)}}{x}.$${% endverbatim %}",
+        "choices": ["0", "1", "$$π$$", "Undefined"],
+        "correctIndex": 1
+    }
+  ];
 }
