@@ -1,9 +1,9 @@
 {
   "questions": [
     {
-      "question": "Compute $\\lim_{{x \\to 2}} (x^2 + 3x - 2).$",
-      "choices": ["5", "8", "10", "12"],
-      "correctIndex": 2
+      "question": "Si $z$ est le nombre complexe de moduule $\\sqrt{2}$ et d'argument $\\frac{\\pi}{3}$, alors $z^8$ est égale à:",
+      "choices": ["$8+i8\\sqrt{3}$", "$-8+i8\\sqrt{3}$", "$-8-i8\\sqrt{3}$", "$8-i8\\sqrt{3}$"],
+      "correctIndex": 1
     },
     {
       "question": "Compute $\\lim_{{x \\to 0}} \\frac{{\\sin(x)}}{x}.$",
