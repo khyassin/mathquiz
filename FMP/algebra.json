@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "Compute $\\lim_{{x \\to 2}} (x^2 + 3x - 2).$,
+      "question": "Compute $\\lim_{{x \\to 2}} (x^2 + 3x - 2).$",
       "choices": ["5", "8", "10", "12"],
       "correctIndex": 2
     },
