@@ -1,18 +1,18 @@
 {
   "questions": [
     {
-      "question": "Compute {% verbatim %}$$\\lim_{{x \\to 2}} (x^2 + 3x - 2).$${% endverbatim %}",
+      "question": "Compute $\\lim_{{x \\to 2}} (x^2 + 3x - 2).$,
       "choices": ["5", "8", "10", "12"],
       "correctIndex": 2
     },
     {
-      "question": "Compute {% verbatim %}$$\\lim_{{x \\to 0}} \\frac{{\\sin(x)}}{x}.$${% endverbatim %}",
-      "choices": ["0", "1", "$$π$$", "Undefined"],
+      "question": "Compute $\\lim_{{x \\to 0}} \\frac{{\\sin(x)}}{x}.$",
+      "choices": ["0", "1", "$π$", "Undefined"],
       "correctIndex": 1
     },
     {
-      "question": "Compute this  {% verbatim %}$$\\lim_{{x \\to 0}} \\frac{{\\cos(x)}}{x}.$${% endverbatim %}",
-      "choices": ["$\\pi$", "$\\beta$", "$$π$$", "Undefined"],
+      "question": "Compute this  $\\lim_{{x \\to 0}} \\frac{{\\cos(x)}}{x}.$",
+      "choices": ["$\\pi$", "$\\beta$", "$π$", "Undefined"],
       "correctIndex": 1
     }
   ]
