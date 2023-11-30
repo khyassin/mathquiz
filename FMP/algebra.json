@@ -7,7 +7,7 @@
     },
     {
       "question": "Si $\\theta$ est un nombre réel, alors $\\cos^3(\\theta)$ est égal à:",
-      "choices": ["$\\frac{1}{8}(\\cos(3\theta)+3\\cos(\theta))$", "$\\frac{1}{4}(\\cos(3\theta)+3\\cos(\theta))$", "$\\frac{1}{4}(\\sin(3\theta)+3\\sin(\theta))$", "$\\frac{1}{8}(3\\cos(\theta)-\\cos(3\theta))$","$\\frac{1}{8}(\\sin(3\theta)+3\\sin(\theta))$"],
+      "choices": ["$\\frac{1}{8}(\\cos(3\\theta)+3\\cos(\\theta))$", "$\\frac{1}{4}(\\cos(3\\theta)+3\\cos(\\theta))$", "$\\frac{1}{4}(\\sin(3\\theta)+3\\sin(\\theta))$", "$\\frac{1}{8}(3\\cos(\theta)-\\cos(3\\theta))$","$\\frac{1}{8}(\\sin(3\\theta)+3\\sin(\\theta))$"],
       "correctIndex": 1
     },
     {
@@ -31,8 +31,8 @@
       "correctIndex": 0
     },
     {
-      "question": "Si $z=1+ie^{i\\frac{\\theta}{2}$ où $\\theta \\in ]-\\pi,\\pi[$ alors $\\lvert z\\rvert$ est égal à:",
-      "choices": ["$2$", "$2\\cos(\\frac{\\theta}{2})$", "$2\\cos(\\frac{\\theta+\\pi}{4})$", "$\\cos(\\frac{\\theta+\\pi}{4})$","2\\sin(\\frac{\\theta}{4})"],
+      "question": "Si $z=1+ie^{i\\frac{\\theta}{2}}$ où $\\theta \\in ]-\\pi,\\pi[$ alors $\\lvert z\\rvert$ est égal à:",
+      "choices": ["$2$", "$2\\cos(\\frac{\\theta}{2})$", "$2\\cos(\\frac{\\theta+\\pi}{4})$", "$\\cos(\\frac{\\theta+\\pi}{4})$","$2\\sin(\\frac{\\theta}{4})$"],
       "correctIndex": 2
     },
     {
