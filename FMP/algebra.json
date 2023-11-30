@@ -12,7 +12,7 @@
     },
     {
       "question": "Compute this  {% verbatim %}$$\\lim_{{x \\to 0}} \\frac{{\\cos(x)}}{x}.$${% endverbatim %}",
-      "choices": ["0", "1", "$$π$$", "Undefined"],
+      "choices": ["$\\pi$", "$\\beta$", "$$π$$", "Undefined"],
       "correctIndex": 1
     }
   ]
