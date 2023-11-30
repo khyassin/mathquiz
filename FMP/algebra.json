@@ -11,7 +11,7 @@
       "correctIndex": 1
     },
     {
-      "question": "Si $x\in ]0,1[$, alors $\\lim_{n\\to +\\infty}(1-x)^n(1+x)^n$ est égal à:",
+      "question": "Si $x\\in ]0,1[$, alors $\\lim_{n\\to +\\infty}(1-x)^n(1+x)^n$ est égal à:",
       "choices": ["$+\\infty$", "$-\\infty$", "$0$", "$-1$","$1$"],
       "correctIndex": 2
     },
@@ -21,7 +21,7 @@
       "correctIndex": 3
     },
     {
-      "question": "Si $f(x)=(x^2-x)e^{\\frac{1}{x}}$ alors $f^{\prime}(x)$ est égale à:",
+      "question": "Si $f(x)=(x^2-x)e^{\\frac{1}{x}}$ alors $f^{\\prime}(x)$ est égale à:",
       "choices": ["$(2x-1)e^{\\frac{1}{x}}$", "$(1-\\frac{1}{x})e^{\\frac{1}{x}}$", "$(\\frac{1}{x}-1)e^{\\frac{1}{x}}$", "$(2x-2+\\frac{1}{x})e^{\\frac{1}{x}}$","$(2x-\\frac{1}{x})e^{\\frac{1}{x}}$"],
       "correctIndex": 3
     },
