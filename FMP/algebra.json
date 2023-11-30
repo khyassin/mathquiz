@@ -6,13 +6,43 @@
       "correctIndex": 1
     },
     {
-      "question": "Compute $\\lim_{{x \\to 0}} \\frac{{\\sin(x)}}{x}.$",
-      "choices": ["0", "1", "$π$", "Undefined"],
+      "question": "Si $\\theta$ est un nombre réel, alors $\\cos^3(\\theta)$ est égal à:",
+      "choices": ["$\\frac{1}{8}(\\cos(3\theta)+3\\cos(\theta))$", "$\\frac{1}{4}(\\cos(3\theta)+3\\cos(\theta))$", "$\\frac{1}{4}(\\sin(3\theta)+3\\sin(\theta))$", "$\\frac{1}{8}(3\\cos(\theta)-\\cos(3\theta))$",, "$\\frac{1}{8}(\\sin(3\theta)+3\\sin(\theta))$"],
       "correctIndex": 1
     },
     {
-      "question": "Compute this  $\\lim_{{x \\to 0}} \\frac{{\\cos(x)}}{x}.$",
-      "choices": ["$\\pi$", "$\\beta$", "$π$", "Undefined"],
+      "question": "Si $x\in ]0,1[$, alors $\\lim_{n\\to +\\infty}(1-x)^n(1+x)^n$ est égal à:",
+      "choices": ["$+\\infty$", "$-\\infty$", "$0$", "$-1$","$1$"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Le domaine de définition de la fonction $f$ définie par $f(x)=\\frac{1}{x-1}ln(1+\\frac{1}{x})$ est:",
+      "choices": ["$]-\\infty,-1[\\cup]0,+\\infty[$", "$]-1,1[\\cup]1,+\\infty[$", "$]-\\infty,-1[\\cup]1,+\\infty[$", "$]-\\infty,-1[\cup]0,1[\\cup]1,+\\infty[$","$]-1,1[$"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Si $f(x)=(x^2-x)e^{\\frac{1}{x}}$ alors $f^{\prime}(x)$ est égale à:",
+      "choices": ["$(2x-1)e^{\\frac{1}{x}}$", "$(1-\\frac{1}{x})e^{\\frac{1}{x}}$", "$(\\frac{1}{x}-1)e^{\\frac{1}{x}}$", "$(2x-2+\\frac{1}{x})e^{\\frac{1}{x}}$","$(2x-\\frac{1}{x})e^{\\frac{1}{x}}$"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Si $z$ est un nombre complexe tel que: $arg(z-1)\\equiv \\frac{2\\pi}{3}[2\\pi]$ et $arg(z+1)\\equiv \\frac{\\pi}{3}[2\\pi]$ alors $z$ est égale à:",
+      "choices": ["$\\sqrt{3}i$", "$2\\sqrt{3}i$", "$-\\sqrt{3}i$", "$-2\\sqrt{3}i$","$1+\\sqrt{3}i$"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Si $z=1+ie^{i\\frac{\\theta}{2}$ où $\\theta \\in ]-\\pi,\\pi[$ alors $\\lvert z\\rvert$ est égal à:",
+      "choices": ["$2$", "$2\\cos(\\frac{\\theta}{2})$", "$2\\cos(\\frac{\\theta+\\pi}{4})$", "$\\cos(\\frac{\\theta+\\pi}{4})$","2\\sin(\\frac{\\theta}{4})"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Si $x\in ]0,1[$, alors $\\lim_{n\\to +\\infty}(1-x)^n(1+x)^n$ est égal à:",
+      "choices": ["$+\\infty$", "$-\\infty$", "$0$", "$-1$","1"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Si $x\in ]0,1[$, alors $\\lim_{n\\to +\\infty}(1-x)^n(1+x)^n$ est égal à:",
+      "choices": ["$+\\infty$", "$-\\infty$", "$0$", "$-1$","1"],
       "correctIndex": 1
     }
   ]
