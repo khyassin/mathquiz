@@ -61,7 +61,7 @@
       "correctIndex": 3
     },
     {
-      "question": "Le plan complex est rapporté à un repère orthonormé (O,\\vect{u},\\vect{v}). L'ensemble des points $M$ d'affixe z tel que:$\; z+\\frac{1}{z}\\in \mathbb{R}$ est:",
+      "question": "Le plan complex est rapporté à un repère orthonormé (O,\\vect{u},\\vect{v}). L'ensemble des points $M$ d'affixe z tel que:$\\; z+\\frac{1}{z}\\in \\mathbb{R}$ est:",
       "choices": ["L'axe des réel privé du point $O$", "Le cercle de centre $O$ et de rayon $1$", "L'axe des rééls privé des deux points $A(-1)$ et $B(1)$", "Le cercle de centre $O$ et de rayon $1$ privé des deux points $A(-1)$ et $B(1)$","L'axe des réels privé du pointt $O$ union le cercle de centre $O$ et de rayon $1$"],
       "correctIndex": 4
     }
