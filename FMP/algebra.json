@@ -17,7 +17,7 @@
     },
     {
       "question": "Le domaine de définition de la fonction $f$ définie par $f(x)=\\frac{1}{x-1}ln(1+\\frac{1}{x})$ est:",
-      "choices": ["$]-\\infty,-1[\\cup]0,+\\infty[$", "$]-1,1[\\cup]1,+\\infty[$", "$]-\\infty,-1[\\cup]1,+\\infty[$", "$]-\\infty,-1[\cup]0,1[\\cup]1,+\\infty[$","$]-1,1[$"],
+      "choices": ["$]-\\infty,-1[\\cup]0,+\\infty[$", "$]-1,1[\\cup]1,+\\infty[$", "$]-\\infty,-1[\\cup]1,+\\infty[$", "$]-\\infty,-1[\\cup]0,1[\\cup]1,+\\infty[$","$]-1,1[$"],
       "correctIndex": 3
     },
     {
