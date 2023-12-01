@@ -64,6 +64,41 @@
       "question": "Le plan complex est rapporté à un repère orthonormé $(O,\\vec{u},\\vec{v})$. L'ensemble des points $M$ d'affixe z tel que:$\\; z+\\frac{1}{z}\\in \\mathbb{R}$ est:",
       "choices": ["L'axe des réels privé du point $O$", "Le cercle de centre $O$ et de rayon $1$", "L'axe des rééls privé des deux points $A(-1)$ et $B(1)$", "Le cercle de centre $O$ et de rayon $1$ privé des deux points $A(-1)$ et $B(1)$","L'axe des réels privé du point $O$ union le cercle de centre $O$ et de rayon $1$"],
       "correctIndex": 4
+    },
+    {
+      "question": "Soit $(w_n)_{n\\in\\mathbb{N}}$ la suite définie par: $w_0=\\frac{1}{2}$ et $(\\forall n\\in \\mathbb{N})\\; , \\;w_{n+1}=(w_n-1)^2+1.\\;$ Si $(w_n)_{n\\in\\mathbb{N}}$ est convergente alors $\\lim_{n\\to +\\infty}w_n$ est égale à:",
+      "choices": ["0", "2", "1", "$\\frac{1}{2}$","-1"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Soit $a\\in]0,+\\infty[$ et $f$ la fonction définie par: $f(x) = 1+x\\ln\\sqrt{1+\\frac{a}{x}}$,alors $$\\lim_{x\\to +\\infty}f(x)$ est égale à:",
+      "choices": ["1", "1+\\frac{a}{2}", "$1+a$", "$+\\infty$","$a$"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Soit $ABC$ un triangle isocèle en $A$ tel que: $AB=AC=10.\\;$ L'aire maximale du triangle $ABC$ est:",
+      "choices": ["$25\\frac{\\sqrt{2}}{2}$", "50", "100", "10","$5\\sqrt{2}$"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Si $(\\forall x\\in \\mathbb{R}^*_+)\\;,\\; f(x) = x^3+3\\ln x+1$ alors le nombre dérivé $(f^{-1})^{\\prime}(2)$ est égale à:",
+      "choices": ["$\\frac{1}{3}$", "$\\frac{1}{6}$", "$\\frac{1}{5}$", "$\\frac{1}{4}$","$\\frac{1}{2}$"],
+      "correctIndex": 1
+    },
+    {
+      "question": "L'intégrale $\\int_0^1\\sin(x)e^xdx$ est égale à:",
+      "choices": ["$\\frac{1+e^{\\frac{\\pi}{2}}}{2}$", "$\\frac{e+e^{\\frac{\\pi}{2}}}{2}$", "$\\frac{1-e^{\\frac{\\pi}{2}}}{2}$", "$1+e^{\\frac{\\pi}{2}}$","$1-e^{\\frac{\\pi}{2}}$"],
+      "correctIndex": 0
+    },
+    {
+      "question": "On considère la fonction définie par : $(\\forall x\\in \\mathbb{R})\\;,\\; f(x) = e^{-\\frac{x^2}{2}}.\\;$ Un encadrement de $f^{\\prime}(x)$ sur l'inttervalle $[0,1]$ est:",
+      "choices": ["$0\\leq f^{\\prime}(x) \\leq \\frac{1}{\\sqrt{e}}$", "$-\\frac{1}{\\sqrt{e}}\\leq f^{\\prime}(x) \\leq 0 $", "$-\\frac{1}{2}\\leq f^{\\prime}(x) \\leq 0 $", "$0 \\leq f^{\\prime}(x) \\leq \\sqrt{e}$","$-\\frac{1}{\\sqrt{e}}\\leq f^{\\prime}(x) \\leq -\\frac{1}{2} $"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Sot $f(x) = \\sqrt{x^3+2x^2+3} - ax\\sqrt{x+b}$ avec $a$ et $b$ deux réels donnés. $\\; f$ admet une limite finie en $+\\infty$ si et seulement si:",
+      "choices": ["$a\\gt 0$ et $b\\gt 0$", "$a=1$ et $b\\gt 0$", "$a=1$ et $b=2$", "$a=1$ et $b=0$","$a\\gt 0$ et $b=0$"],
+      "correctIndex": 2
     }
   ]
 }
