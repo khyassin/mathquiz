@@ -56,7 +56,7 @@
       "correctIndex": 0
     },
     {
-      "question": "L'intérgrale $\\int_O^1 \\frac{2t+3}{t+2}dt$ est égale à:",
+      "question": "L'intérgrale $\\int_0^1 \\frac{2t+3}{t+2}dt$ est égale à:",
       "choices": ["$\\ln\\frac{3}{2}$", "$2+\\ln\\frac{3}{2}$", "$2-\\ln\\frac{2}{3}$", "$2+\\ln\\frac{2}{3}$","$\\ln\\frac{2}{3}$"],
       "correctIndex": 3
     },
@@ -71,8 +71,8 @@
       "correctIndex": 2
     },
     {
-      "question": "Soit $a\\in]0,+\\infty[$ et $f$ la fonction définie par: $f(x) = 1+x\\ln\\sqrt{1+\\frac{a}{x}}$,alors $$\\lim_{x\\to +\\infty}f(x)$ est égale à:",
-      "choices": ["1", "1+\\frac{a}{2}", "$1+a$", "$+\\infty$","$a$"],
+      "question": "Soit $a\\in]0,+\\infty[$ et $f$ la fonction définie par: $f(x) = 1+x\\ln\\sqrt{1+\\frac{a}{x}}$,alors $\\lim_{x\\to +\\infty}f(x)$ est égale à:",
+      "choices": ["1", "$1+\\frac{a}{2}$", "$1+a$", "$+\\infty$","$a$"],
       "correctIndex": 1
     },
     {
@@ -91,7 +91,7 @@
       "correctIndex": 0
     },
     {
-      "question": "On considère la fonction définie par : $(\\forall x\\in \\mathbb{R})\\;,\\; f(x) = e^{-\\frac{x^2}{2}}.\\;$ Un encadrement de $f^{\\prime}(x)$ sur l'inttervalle $[0,1]$ est:",
+      "question": "On considère la fonction définie par : $(\\forall x\\in \\mathbb{R})\\;,\\; f(x) = e^{-\\frac{x^2}{2}}.\\;$ Un encadrement de $f^{\\prime}(x)$ sur l'intervalle $[0,1]$ est:",
       "choices": ["$0\\leq f^{\\prime}(x) \\leq \\frac{1}{\\sqrt{e}}$", "$-\\frac{1}{\\sqrt{e}}\\leq f^{\\prime}(x) \\leq 0 $", "$-\\frac{1}{2}\\leq f^{\\prime}(x) \\leq 0 $", "$0 \\leq f^{\\prime}(x) \\leq \\sqrt{e}$","$-\\frac{1}{\\sqrt{e}}\\leq f^{\\prime}(x) \\leq -\\frac{1}{2} $"],
       "correctIndex": 1
     },
