@@ -21,7 +21,7 @@
       "correctIndex": 4
     },
     {
-      "question": "Dans $\mathbb{R}$, le nombre de solutions de l'équation $x^5+x-1=0$ est:",
+      "question": "Dans $\\mathbb{R}$, le nombre de solutions de l'équation $x^5+x-1=0$ est:",
       "choices": ["$0$", "$1$", "$2$", "$3$","$5$"],
       "correctIndex": 1
     }
