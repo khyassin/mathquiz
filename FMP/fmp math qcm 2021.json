@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "$\\lim_{x\\to 0}\\frac{\\sqrt{\\ln(e+x)}-1}{\\sqrt{x+1}-1}$",
+      "choices": ["$\\frac{1}{2e}$", "$\\frac{1}{e}$", "$1$", "$e$","$2e$"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Si $f(x) = \\frac{1}{1-x}\\ln(1+\\frac{1}{x})$ alors $f^{\\prime}(x)$ est égale à:",
+      "choices": ["$\\frac{1}{(1-x)^2}\\ln(1+\\frac{1}{x})+\\frac{1}{x(1-x^2)}$", "$\\frac{1}{(1-x)^2}\\ln(1+\\frac{1}{x})-\\frac{1}{x(1-x^2)}$", "$\\frac{1}{1-x^2}\\ln(1+\\frac{1}{x})-\\frac{1}{x(1-x^2)}$", "$\\frac{1}{(1-x)^2}\\ln(1+\\frac{1}{x})-\\frac{1}{x(1-x)^2}$","$\\frac{1}{(1-x)^2}\\ln(1+\\frac{1}{x})-\\frac{1}{1-x^2}$"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Le nombre complexe $(\\frac{7-15i}{15+7i})^2021$ est égale à:",
+      "choices": ["$i$", "$-1$", "$7-15i$", "$-i$","$7+15i$"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Si $x\\in ]0,1[,$ alors $\\lim_{n\to +\\infty}(1-x+x^2-x^3+\\ldots +(-1)^nx^n)$ est égale à:",
+      "choices": ["$\\frac{1}{x-1}$", "$\\frac{1}{1-x}$", "$1$", "$\\frac{-1}{x+1}$","$\\frac{1}{x+1}$"],
+      "correctIndex": 4
+    },
+    {
+      "question": "Dans $\mathbb{R}$, le nombre de solutions de l'équation $x^5+x-1=0$ est:",
+      "choices": ["$0$", "$1$", "$2$", "$3$","$5$"],
+      "correctIndex": 1
+    }
+  ]
+}
